@@ -1,4 +1,4 @@
-# Conclución
+# Conclusión
 Git es una herramienta muy potente que ofrece muchísmos comandos para la gestios de versiónes de nuestros proyectos. te animo a que eches un vistazo a la documentación oficial de git para que descubras muchos mas comandos y configuraciones.
 
 ## Links

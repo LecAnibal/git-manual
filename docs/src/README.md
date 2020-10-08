@@ -1,5 +1,7 @@
 # Una breve historia de Git
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0ea8223a-f184-4912-b65b-c0c2fda2e7de/deploy-status)](https://app.netlify.com/sites/romantic-banach-b0ef4b/deploys) 
+
 ![Linus Torvalds](https://aigraduate.com/content/images/size/w2000/downloaded_images/When-Overachievers-Self-Doubt---The-Birth-of-Git/1-4_PDlccx4RjKQFmyMuwZ8A-2.jpeg "Linus Torvalds")
 
 Como muchas de las grandes cosas en esta vida, Git comenzó con un poco de destrucción creativa y una gran polémica.
