@@ -65,7 +65,8 @@ module.exports = {
           collapsable: true,
           children: [
             '/Recomendaciones/Commit',
-            '/Recomendaciones/PullRequest'
+            '/Recomendaciones/PullRequest',
+            '/Recomendaciones/Flow'
           ]
         },
         {
